@@ -82,8 +82,15 @@ Durante o desenvolvimento deste projeto, aprofundei conhecimentos em:
 
 # 📸 Capturas de Tela
 
-> As capturas de tela do aplicativo serão adicionadas em breve.
+<p align="center">
+  <img src="screenshots/tela-inicial.png" width="220">
+  <img src="screenshots/menu.png" width="220">
+</p>
 
+<p align="center">
+  <img src="screenshots/cardapio.png" width="220">
+  <img src="screenshots/carrinho.png" width="220">
+</p>
 
 ---
 
